@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\CursoUnity\\Breakout\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\cursounity\\breakout\\assets\\_scripts\\bloque_diamante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\bloque_diamante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\cursounity\\breakout\\assets\\_scripts\\bloque_fuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\bloque_fuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\cursounity\\breakout\\assets\\_scripts\\bloque_piedra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\bloque_piedra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\cursounity\\breakout\\assets\\_scripts\\bloque_madera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\bloque_madera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CursoUnity\\Breakout\\Assets\\_Scripts\\Bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_Scripts\\Bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bloque_Fuego.cs",
+              "DocumentMoniker": "C:\\CursoUnity\\Breakout\\Assets\\_Scripts\\Bloque_Fuego.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Bloque_Fuego.cs",
+              "ToolTip": "C:\\CursoUnity\\Breakout\\Assets\\_Scripts\\Bloque_Fuego.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Bloque_Fuego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:11:06.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bloque_Diamante.cs",
+              "DocumentMoniker": "C:\\CursoUnity\\Breakout\\Assets\\_Scripts\\Bloque_Diamante.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Bloque_Diamante.cs",
+              "ToolTip": "C:\\CursoUnity\\Breakout\\Assets\\_Scripts\\Bloque_Diamante.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Bloque_Diamante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:05:10.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bloque.cs",
+              "DocumentMoniker": "C:\\CursoUnity\\Breakout\\Assets\\_Scripts\\Bloque.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Bloque.cs",
+              "ToolTip": "C:\\CursoUnity\\Breakout\\Assets\\_Scripts\\Bloque.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Bloque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:05:50.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bloque_Madera.cs",
+              "DocumentMoniker": "C:\\CursoUnity\\Breakout\\Assets\\_Scripts\\Bloque_Madera.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Bloque_Madera.cs",
+              "ToolTip": "C:\\CursoUnity\\Breakout\\Assets\\_Scripts\\Bloque_Madera.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Bloque_Madera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:25:11.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bloque_Piedra.cs",
+              "DocumentMoniker": "C:\\CursoUnity\\Breakout\\Assets\\_Scripts\\Bloque_Piedra.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Bloque_Piedra.cs",
+              "ToolTip": "C:\\CursoUnity\\Breakout\\Assets\\_Scripts\\Bloque_Piedra.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Bloque_Piedra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:24:51.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
