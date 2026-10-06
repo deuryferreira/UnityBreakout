@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 382833312774160790}
   - component: {fileID: 6925841778390484609}
   - component: {fileID: 2167704521635435042}
+  - component: {fileID: -3306549189038875917}
   m_Layer: 0
   m_Name: Jugador
   m_TagString: Untagged
@@ -142,3 +143,15 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 124
   m_CollisionDetection: 3
+--- !u!114 &-3306549189038875917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 748926069707203486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5993ec0e804afd479f4e083d56632b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Jugador

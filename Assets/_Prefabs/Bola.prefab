@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1205226537602713044}
   - component: {fileID: 3853003517342351035}
   - component: {fileID: 3457536697166566080}
+  - component: {fileID: 7222203772154723545}
   m_Layer: 0
   m_Name: Bola
   m_TagString: Untagged
@@ -136,7 +137,21 @@ Rigidbody:
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
   m_UseGravity: 0
-  m_IsKinematic: 1
+  m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 120
   m_CollisionDetection: 0
+--- !u!114 &7222203772154723545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451088234549758507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fc2372e3f45d03499900a6f0bd9d158, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Bola
+  GameIsStarted: 0
+  velocidadBola: 10
