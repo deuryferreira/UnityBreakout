@@ -69,3 +69,8 @@ ehthumbs.db
 .vscode/
 .idea/
 *.sln.iml
+
+# Skills locales de Codex para este proyecto
+/.agents/skills/unity-cli/
+/.agents/skills/ui/
+/.agents/skills/ui-ugui/

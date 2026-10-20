@@ -154,4 +154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Bola
   GameIsStarted: 0
-  velocidadBola: 10
+  velocidadBola: 30
+  BolaDestruida:
+    m_PersistentCalls:
+      m_Calls: []
