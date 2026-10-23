@@ -15,6 +15,12 @@ public class Bola : MonoBehaviour
 
     void Start()
     {
+        // La velocidad se controla desde el ScriptableObject compartido.
+        OpcionesJuego opciones = OpcionesJuego.Instancia;
+        if (opciones != null)
+        {
+            velocidadBola = Mathf.Max(1f, opciones.velocidadBola);
+        }
         // 1. Obtener componente de física
         rb = GetComponent<Rigidbody>();
 
