@@ -427,7 +427,7 @@ MonoBehaviour:
   transformActualScore: {fileID: 0}
   HighScoreText: {fileID: 0}
   ActualScoreText: {fileID: 0}
-  highScoreSO: {fileID: 11400000, guid: 938324de468b06e46bfd88cae4b77979, type: 2}
+  highScoreSO: {fileID: 11400000, guid: af4de4500e2b43eaa0da78184e364883, type: 2}
 --- !u!1001 &186738107
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -739,7 +739,7 @@ MonoBehaviour:
   transformActualScore: {fileID: 0}
   HighScoreText: {fileID: 0}
   ActualScoreText: {fileID: 0}
-  highScoreSO: {fileID: 11400000, guid: 938324de468b06e46bfd88cae4b77979, type: 2}
+  highScoreSO: {fileID: 11400000, guid: af4de4500e2b43eaa0da78184e364883, type: 2}
 --- !u!114 &330585551
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1177,7 +1177,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AdministradorDePersistencia
   ObjetosAGuardar:
-  - {fileID: 11400000, guid: 938324de468b06e46bfd88cae4b77979, type: 2}
+  - {fileID: 11400000, guid: af4de4500e2b43eaa0da78184e364883, type: 2}
+  - {fileID: 11400000, guid: 7cb65bb736e4435c9ec99efc317e98c2, type: 2}
 --- !u!4 &812567933
 Transform:
   m_ObjectHideFlags: 0
@@ -2859,10 +2860,6 @@ PrefabInstance:
     - target: {fileID: 1451088234549758507, guid: 6917912aa7bb2e847808d5b511fd6414, type: 3}
       propertyPath: m_TagString
       value: Bola
-      objectReference: {fileID: 0}
-    - target: {fileID: 7222203772154723545, guid: 6917912aa7bb2e847808d5b511fd6414, type: 3}
-      propertyPath: velocidadBola
-      value: 30
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
